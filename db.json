@@ -1,0 +1,112 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/8e/5d/2d/c2a6038dd7f55a9295164e88c152f424.jpg.webp",
+      "name": "Thợ Xăm Ở Auschwitz",
+      "author": "Heather Morris",
+      "price": 108000,
+      "category": "Tiểu thuyết",
+      "description": "Thợ xăm ở Auschwitz là một tài liệu khác thường, được công bố hơn bảy mươi năm sau những sự kiện nó thuật lại, và nó nhắc nhở chúng ta rằng có rất nhiều câu chuyện sẽ mãi mãi không bao giờ được kể. Nó cũng nhắc chúng ta nhớ rằng trong số nạn nhân lớn đến không tưởng tượng nổi của Holocaust, mỗi người đều là một cá nhân với một câu chuyện độc nhất vô nhị."
+    },
+    {
+      "id": 2,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/67/6f/c4/6ff1714210ea6d68a45bee4320afa17c.jpg.webp",
+      "name": "Ra Bờ Suối Ngắm Hoa Kèn Hồng",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 237500,
+      "category": "Tiểu thuyết",
+      "description": "Chỉ có tình yêu mới choán chỗ trong trái tim ta nhiều đến thế, ngay cả khi tình yêu ấy chỉ mới chập chững những bước đầu tiên. - Cô bồ câu tiếp tục tư lự - Tình yêu hẳn nhiên là quà tặng của thượng đế. Sớm muộn gì rồi ai cũng nhận được món quà này. Ta không thể vờ như không quen nó hoặc làm ra vẻ không biết nó. Dù ta cố tình không đề cập đến nó thì nó cũng ở sẵn đó rồi và con bé Mắt Tròn giờ này chắc cũng đã cảm nhận được những gì ta từng nếm trải."
+    },
+    {
+      "id": 3,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/8e/32/3d/e4487c4c7e335bbda4f06dd54d8e35b8.jpg.webp",
+      "name": "Thư Viện Nửa Đêm",
+      "author": "Matt Haig",
+      "price": 139500,
+      "category": "Truyện giả tưởng",
+      "description": "Cuộc đời Nora Seed tràn ngập khổ sở và nuối tiếc. Cô có nhiều khả năng nhưng lại ít thành tựu, và luôn cảm thấy mình đã làm mọi người xung quanh mình thất vọng. Thế rồi, vào lúc chuông điểm nửa đêm trong ngày cuối cùng còn trên thế gian, Nora thấy mình xuất hiện ở Thư viện nửa đêm – một nơi “nằm giữa cõi sống và cõi chết”, với những dãy kệ trải dài bất tận và hằng hà sa số cuốn sách giúp Nora có thể sống một cuộc đời khác nếu cô đã lựa chọn cho mình những lối đi khác. Với sự giúp đỡ của một người quen cũ, Nora nắm trong tay cơ hội sửa chữa mọi sai lầm và xóa bỏ mọi hối tiếc để tìm kiếm một cuộc sống hoàn hảo cho riêng mình."
+    },
+    {
+      "id": 4,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/0a/fb/51/202015881b04b7c8a4b47d15cf9c049f.jpg.webp",
+      "name": "Hai Số Phận",
+      "author": "Jeffrey Archer",
+      "price": 110250,
+      "category": "Tiểu thuyết",
+      "description": "“Hai số phận” làm rung động mọi trái tim quả cảm, nó có thể làm thay đổi cả cuộc đời bạn. Đọc cuốn sách này, bạn sẽ bị chi phối bởi cá tính của hai nhân vật chính, hoặc bạn là Kane, hoặc sẽ là Abel, không thể nào nhầm lẫn. Và điều đó sẽ khiến bạn thấy được chính mình."
+    },
+    {
+      "id": 5,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/c9/e4/18/a9cfc425fa590c453f20307229804bb3.jpg.webp",
+      "name": "Rừng Nauy",
+      "author": "Haruki Murakami",
+      "price": 107000,
+      "category": "Tiểu thuyết",
+      "description": "Một cuốn sách ẩn chứa mọi điều khiến bạn phải say mê và đau đớn, tình yêu với muôn vàn màu sắc và cung bậc khác nhau, cảm giác trống rỗng và hẫng hụt của cả một thế hệ thanh niên vô hướng, ý niệm về sự sinh tồn tất yếu của cái chết trong lòng cuộc sống, những gắng gượng âm thầm nhưng quyết liệt của con người để vượt qua mất mát trong đờất cả đã tạo nên vẻ đẹp riêng cho Rừng Na uy, im lặng, ma thuật và tuyệt vọng như một chấm máu cô độc giữa bạt ngàn tuyết lạnh."
+    },
+    {
+      "id": 6,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/4a/c0/ee/c73cca3fbd5f8c9aefe98102acd633b5.jpg.webp",
+      "name": "Không Gia Đình",
+      "author": "Hector Malot",
+      "price": 85800,
+      "category": "Tiểu thuyết",
+      "description": "KHÔNG GIA ĐÌNH kể về cuộc đời của cậu bé Rémi. Từ nhỏ, Rémi đã bị bắt cóc, rồi bị bố nuôi bán cho một đoàn xiếc thú. Em đã theo đoàn xiếc ấy đi lưu lạc khắp nước Pháp. Rémi đã lớn lên trong gian khổ và lao động để sống. Lúc đầu em được sự dạy bảo của cụ Vitalis, về sau thì tự lập. Không những lo cho mình, em còn lo việc biểu diễn và kiếm sống cho cả một gánh hát rong… Nhưng dù ở đâu, trong cảnh ngộ nào, em vẫn noi theo nếp rèn dạy của cụ Vitalis giữ phẩm chất làm người. Đó là lòng yêu lao động, tự trọng, ngay thẳng, biết nhớ ơn nghĩa và luôn luôn muốn làm người có ích."
+    },
+    {
+      "id": 7,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/30/78/f7/f02f7d083c178374de7728250f57b7ac.jpg.webp",
+      "name": "Eleanor Oliphant Hoàn Toàn Ổn",
+      "author": "Eleanor Oliphant Hoàn Toàn Ổn",
+      "price": 138800,
+      "category": "Tiểu thuyết",
+      "description": "Eleanor Oliphant hoàn toàn ổn (Eleanor Oliphant is Completely Fine), đã trở thành một hiện tượng khi bán được hơn 2 triệu bản và giành giải Costa cho tiểu thuyết đầu tay xuất sắc nhất năm 2017."
+    },
+    {
+      "id": 8,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/e5/02/4c/780b0cd52b9284ed7b78492a59be10a4.jpg.webp",
+      "name": "Tôi Thích Em, Như Gió Thổi Tám Nghìn Dặm",
+      "author": "Mạt Na Đại Thúc",
+      "price": 77900,
+      "category": "Truyện ngôn tình",
+      "description": "Tôi thích em, như gió thổi tám nghìn dặm” là một cuốn tản văn trữ tình, sâu lắng đến từ tác giả Mạt Na Đại Thúc – tập hợp trong đó tất cả những câu chuyện khác nhau, mang những hàn cảnh khác nhau trong cuộc sống xung quanh chúng ta: tình yêu, người cũ, chữa lành tổn thương, tình người, sự cô đơn của tuổi trưởng thành"
+    },
+    {
+      "id": 9,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/66/cd/d7/19f6be163f6c61be1290305528b003d3.jpg.webp",
+      "name": "999 Lá Thư Gửi Cho Chính Mình",
+      "author": "Miêu Công Tử",
+      "price": 127000,
+      "category": "Kỹ năng sống",
+      "description": "Mỗi một tập sách mang một màu sắc riêng, thế hiện cá tính riêng như một thông điệp gửi đến các độc giả trẻ rằng mỗi chúng ta đều là một cá thể mang màu sắc của riêng mình: có thể phá cách, có thể dịu dàng, có thể truyền thống nhưng phần nào vẫn giữ được cá tính cùng nét nổi bật của bản thân, trở thành phiên bản duy nhất của chính mình."
+    },
+    {
+      "id": 10,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/eb/60/3e/70ea5e540d11c409d63fc7ce6249f34d.jpg.webp",
+      "name": "Lắng Nghe Gió Hát",
+      "author": "Haruki Murakami",
+      "price": 55000,
+      "category": "Truyện ngắn",
+      "description": "Trong lời giới thiệu bản in tiếng Anh lần đầu tiên. Murakami nói rằng Lắng Nghe Gió Hát và Pinball, 1973 chiếm vị trí quan trọng trong những thành tựu của ông, và rằng chúng có vai trò không gì thay thế nổi, như những người bạn từ thời xưa cũ. Vậy nhưng, tuy tác giả có dè dặt đến mấy khi đánh giá hai tác phâm đầu tay, nhiều độc giả thủy chung của ông có thể chào đón cuốn sách như một người bạn tâm tình kinh điển, đã sớm bộc lộ những gì làm nên chất Murakami trong một hình hài xanh ngát."
+    },
+    {
+      "id": 11,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/7b/22/a1/af33b6a4c2beaf66f356428b4e1d98b0.jpg.webp",
+      "name": "Hồi Ức Không Nằm Trong Ảnh - Mà Ở Trong Tim",
+      "author": "Chu Văn Tuệ",
+      "price": 50500,
+      "category": "Tiểu thuyết",
+      "description": "Trong lời giới thiệu bản in tiếng Anh lần đầu tiên. Murakami nói rằng Lắng Nghe Gió Hát và Pinball, 1973 chiếm vị trí quan trọng trong những thành tựu của ông, và rằng chúng có vai trò không gì thay thế nổi, như những người bạn từ thời xưa cũ. Vậy nhưng, tuy tác giả có dè dặt đến mấy khi đánh giá hai tác phâm đầu tay, nhiều độc giả thủy chung của ông có thể chào đón cuốn sách như một người bạn tâm tình kinh điển, đã sớm bộc lộ những gì làm nên chất Murakami trong một hình hài xanh ngát."
+    },
+    {
+      "id": 12,
+      "url": "https://salt.tikicdn.com/cache/200x200/ts/product/4f/f1/1c/ceef76f6047793edc7bc122c3138189a.jpg.webp",
+      "name": "Lolita",
+      "author": "Vladimir Nabokov",
+      "price": 95900,
+      "category": "Tiểu thuyết",
+      "description": "Giờ đây khi thực sự được đọc Lolita, ta hiểu tại sao Vladimir Nabokov nâng niu nó đến vậy. Thoạt tiên bị nhìn nhận một cách giản đơn quá mức, Lolita dần thoát khỏi cái định kiến coi nó là tác phẩm thuần túy gợi dục, bởi Lolita chứa đựng nhiều, rất nhiều hơn thế: nó tinh vi dò xét tâm lý con người (dù không cần viện tới tâm phân học, mà thậm chí Nabokov còn luôn luôn tìm cách bài xích Sigmund Freud), và nó còn là những nước cờ ngôn từ kiệt xuất của một trong những thiên tài văn chương lớn nhất."
+    }
+  ]
+}
